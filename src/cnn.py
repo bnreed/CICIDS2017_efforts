@@ -30,8 +30,8 @@ matplotlib.use('tkagg')
 
 input_dir = util.get_ml_basedir()
 
-#datafile = '/home/bnreed/projects/EMSE6575/final_project/data/new_set/merged_dropna.csv'
-datafile = '/home/bnreed/projects/EMSE6575/final_project/data/new_set/merged_dropna_10pct.csv'
+#datafile = '../data/new_set/merged_dropna.csv'
+datafile = '../data/new_set/merged_dropna_10pct.csv'
 
 print('read data')
 X = pd.read_csv(datafile)

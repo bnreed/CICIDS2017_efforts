@@ -27,8 +27,8 @@ from sklearn.metrics import plot_confusion_matrix
 
 print(sorted(sklearn.metrics.SCORERS.keys()))
 
-#datafile = '/home/bnreed/projects/EMSE6575/final_project/data/new_set/merged_dropna.csv'
-datafile = '/home/bnreed/projects/EMSE6575/final_project/data/new_set/merged_dropna_10pct.csv'
+#datafile = '../data/new_set/merged_dropna.csv'
+datafile = '../data/new_set/merged_dropna_10pct.csv'
 
 X = pd.read_csv(datafile)
 

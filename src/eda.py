@@ -7,8 +7,8 @@ import util
 
 # https://www.kaggle.com/datasets/karenp/cse-cic-ids2018
 
-datafile = '/home/bnreed/projects/EMSE6575/final_project/data/new_set/merged_dropna.csv'
-#datafile = '/home/bnreed/projects/EMSE6575/final_project/data/new_set/merged_dropna_10pct.csv'
+#datafile = '../data/new_set/merged_dropna.csv'
+datafile = '../data/new_set/merged_dropna_10pct.csv'
 
 #pd.set_option('display.max_columns', None)
 #pd.set_option('display.max_rows', None)
