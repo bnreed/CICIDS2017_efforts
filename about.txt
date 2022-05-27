@@ -1,5 +1,1 @@
-https://www.unb.ca/cic/datasets/index.html
-https://www.unb.ca/cic/datasets/ids-2018.html
 
-inspiration:
-https://www.kaggle.com/datasets/solarmainframe/ids-intrusion-csv/code
